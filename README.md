@@ -28,7 +28,7 @@ Email - [sudhan@jumisa.io](sudhan@jumisa.io)
 - Jira
 - Ansible
 - Opsgenie/Pagerduty
-- OS: Debian, Ubuntu • Teraform
+- OS: Debian, Ubuntu, Windows
 
 ## About Me
 - Proficient in monitoring infrastructure and resolving real-time production issues to achieve high availability.
