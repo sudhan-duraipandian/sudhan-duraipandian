@@ -4,7 +4,9 @@
 
 ## Reach me at:
 Sudhan Duraipandian [Linkedin](https://www.linkedin.com/in/sudhan-duraipandian-6859211a4/)
+
 Read My blogs [here](jumisa.io/blog)
+
 Email - [sudhan@jumisa.io](sudhan@jumisa.io)
 
 ## Skills
